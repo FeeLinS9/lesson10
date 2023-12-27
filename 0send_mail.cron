@@ -1,0 +1,1 @@
+/bin/flock -x -w 1 /tmp/file.lock /bin/bash /root/send_mail.sh
